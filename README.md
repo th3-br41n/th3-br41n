@@ -1,2 +1,19 @@
 [<img src="https://streak-stats.demolab.com/?user=th3-br41n&theme=calm-pink" />
 ](https://streak-stats.demolab.com/?user=th3-br41n&theme=calm-pink)
+
+```text
+$ whoami
+
+th3-br41n
+
+──────────────────────────────────────
+🧠 engineer
+🦀 systems
+⚡ performance
+🤖 automation
+🌍 open source
+──────────────────────────────────────
+
+$ echo "Stay curious."
+Stay curious.
+```
