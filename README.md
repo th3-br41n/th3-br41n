@@ -26,4 +26,10 @@ I'm building **Brainstorm OS** — a local-first, open-source knowledge manageme
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=th3-br41n.visitor-badge" alt="visitor badge"/>
+
+[<img src="https://streak-stats.demolab.com/?user=th3-br41n&theme=calm-pink" />
+](https://streak-stats.demolab.com/?user=th3-br41n&theme=calm-pink)
+
 </div>
