@@ -11,7 +11,7 @@
 
 ## 🚀 About
 
-I'm building **Brainstorm OS** — a local-first, open-source knowledge management system designed for people who want full ownership of their notes, ideas, and second brain, without depending on a cloud service or vendor lock-in.
+I'm building **[Brainstorm OS](https://github.com/brainstorm-os)** — a local-first, open-source knowledge management system designed for people who want full ownership of their notes, ideas, and second brain, without depending on a cloud service or vendor lock-in.
 
 - 🔒 **Local-first** — your data lives on your machine by default
 - 🌐 **Open-source** — transparent, forkable, community-driven
