@@ -20,6 +20,13 @@ I'm building **[Brainstorm OS](https://github.com/brainstorm-os)** — a local-f
 
 ---
 
+- 🌎 [Website](https://getbrainstorm.online)
+- 💾 [Downloads](https://getbrainstorm.online/downloads)
+- 📱 [Apps](https://getbrainstorm.online/apps)
+- 🗃️ [Docs](https://docs.getbrainstorm.online)
+
+---
+
 ## 🛠️ Tech & Interests
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
