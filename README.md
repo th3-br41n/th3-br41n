@@ -40,4 +40,6 @@ I'm building **[Brainstorm OS](https://github.com/brainstorm-os)** — a local-f
 [<img src="https://streak-stats.demolab.com/?user=th3-br41n&theme=calm-pink" />
 ](https://streak-stats.demolab.com/?user=th3-br41n&theme=calm-pink)
 
+
+<a href="https://www.buymeacoffee.com/ra3orbladez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
